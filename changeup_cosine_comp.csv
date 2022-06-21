@@ -1,0 +1,121 @@
+	MLB DL Pitcher	MLB Comp	Cosine Value
+0	Cherry, Derrick	No Comp	No Similarity
+1	Reeves, Cobe	Mercedes, Yermín	0.31622776601683794
+2	Dieter, Brandon	Sneed, Cy	0.33541019662496846
+3	Drake, Kohl	Zimmermann, Bruce	0.33541019662496846
+4	Camfield, Geoffrey	Valdez, Framber	0.30000000000000004
+5	Wall, Chris	Ryu, Hyun Jin	0.4351941398892446
+6	Keller, Dave	Eovaldi, Nathan	0.30151134457776363
+7	Davitt, Duncan	Smith, Josh A.	0.3481553119113957
+8	Thompson , Wyatt	Darvish, Yu	0.33806170189140666
+9	Milberg, Devin	Manning, Matt	0.31622776601683794
+10	Diedrich, Sayer	No Comp	No Similarity
+11	Gill, Elijah	No Comp	No Similarity
+12	Smith, Chase	Raley, Brooks	0.4
+13	Pintaro, Jonathan	Wacha, Michael	0.33541019662496846
+14	Steward, Casey	LeBlanc, Wade	0.4351941398892446
+15	Kiritsis, Daniel	Weaver, Luke	0.36363636363636365
+16	Freeberger, Dominic	Lyles, Jordan	0.31622776601683794
+17	Cheeley, Austin	Mercedes, Yermín	0.31622776601683794
+18	Rodriguez, Mauricio	Peralta, Freddy	0.3849001794597505
+19	Blatter, Brock	Conley, Adam	0.38138503569823695
+20	Drees, Derek	Mercedes, Yermín	0.31622776601683794
+21	DePrimo, Hunter	García, Rony	0.3585685828003181
+22	Harris, Antoine	Musgrove, Joe	0.5000000000000001
+23	Schueler, Jay	Smith, Josh A.	0.3481553119113957
+24	Cox, Brennan	Green, Chad	0.33541019662496846
+25	Tullar, Cameron	Ivey, Tyler	0.31622776601683794
+26	Ammerlaan, Ashe	Matzek, Tyler	0.27386127875258315
+27	Rivera, Geo	Wainwright, Adam	0.4
+28	Bortka, Josh	Paulino, David	0.31622776601683794
+29	Allain, Luke	Toussaint, Touki	0.23904572186687872
+30	Carter, Alan	No Comp	No Similarity
+31	De Grandpre, Cedric	Mejía, Francisco	0.31622776601683794
+32	Gilchrist, Malcolm	Neverauskas, Dovydas	0.21081851067789195
+33	Brewer, Michael	Peterson, Jace	0.40201512610368484
+34	Wendell, Wyatt	Anderson, Drew	0.22360679774997896
+35	Sapp, Eric	Burdi, Nick	0.2721655269759087
+36	Escano, Antonio	Brice, Austin	0.4
+37	Shalley, Tucker	No Comp	No Similarity
+38	Morrissette, Wagner	Voth, Austin	0.30000000000000004
+39	Gowens, Riley	Ramírez, Erasmo	0.4351941398892446
+40	Coles, Chad	No Comp	No Similarity
+41	Figueroa, Anthony	Cotton, Jharel	0.3651483716701108
+42	Wilhite, Thomas	Thompson, Zach	0.3872983346207417
+43	Hunt, KC	Mercedes, Yermín	0.31622776601683794
+44	Fenlong, Connor	Peralta, Freddy	0.3849001794597505
+45	Rackers, Jason	Ramírez, Yefry	0.31622776601683794
+46	Marozas, Austin	Espino, Paolo	0.4
+47	Stevens, Will	No Comp	No Similarity
+48	Knoll, Brendan	Mercedes, Yermín	0.3333333333333333
+49	Cheeley, Austin 	Rosscup, Zac	0.33541019662496846
+50	Metcalf, Joseph	Senzatela, Antonio	0.2860387767736777
+51	Crawford, Devin	Green, Chad	0.2357022603955158
+52	Morris, Gunner	Zuber, Tyler	0.4
+53	Wilson, Jeffrey	Thompson, Zach	0.3872983346207417
+54	Fruit, Zach	No Comp	No Similarity
+55	Thompson, Wyatt	No Comp	No Similarity
+56	Fernandez, Ronaldo	Mercedes, Yermín	0.31622776601683794
+57	Tonas, Angelo	Brewer, Colten	0.30000000000000004
+58	Wilson, Benjamin	Sánchez, Ricardo	0.31622776601683794
+59	Jarvis Jr., Evans	No Comp	No Similarity
+60	Laux, Brandon	Smith, Burch	0.42640143271122083
+61	Cook, Jeremy	Suero, Wander	0.4
+62	Wright, Kerry	Mercedes, Yermín	0.31622776601683794
+63	Alba, Max	Mercedes, Yermín	0.3333333333333333
+64	Spoljaric, Turner	Diplán, Marcos	0.30000000000000004
+65	Murphy, Shane	Toussaint, Touki	0.2519763153394848
+66	Jeans, Tyler	Mercedes, Yermín	0.31622776601683794
+67	Nett, Braden	Matzek, Tyler	0.27386127875258315
+68	Yamane, Tiaga	Harvey, Matt	0.2860387767736777
+69	Johnson, Tyler	Poteet, Cody	0.3651483716701108
+70	Oswald, Wesley	No Comp	No Similarity
+71	Galatas, Nikelle	Thompson, Zach	0.3872983346207417
+72	Whaley, Alec	No Comp	No Similarity
+73	Heine, Dylan	No Comp	No Similarity
+74	Qin, Zimo	Toussaint, Touki	0.2519763153394848
+75	Bucknam, Micah	Duffy, Matt	0.33541019662496846
+76	Elissalt, Frank	Green, Chad	0.33541019662496846
+77	Palumbo, Nick	Mercedes, Yermín	0.31622776601683794
+78	Perry, Tanner	Steele, Justin	0.31622776601683794
+79	Schomberg, Will	Nance, Tommy	0.27386127875258315
+80	Olson, Mason	No Comp	No Similarity
+81	Ramos, Jean Paul	Cabrera, Edward	0.30000000000000004
+82	Goodwin, Sean	Martin, Brett	0.21081851067789195
+83	De Cedric, Grandpre	Thompson, Zach	0.408248290463863
+84	Tong, Jonah	Jiménez, Dany	0.31622776601683794
+85	Kengott, Jared	Mercedes, Yermín	0.31622776601683794
+86	Olejnik, Peyton	LeBlanc, Wade	0.4351941398892446
+87	Roberts, Aaron	Mejía, Francisco	0.31622776601683794
+88	Godwin, Connor	Mejía, Francisco	0.3333333333333333
+89	Ayers, Kyle	Eovaldi, Nathan	0.2860387767736777
+90	Pryor, Luke	Rusin, Chris	0.5000000000000001
+91	Minton, Hayden	No Comp	No Similarity
+92	Mollerus, Josh	Coonrod, Sam	0.31622776601683794
+93	Thornton, Zach	Tomlin, Josh	0.4
+94	Ornido, Riley	Pressly, Ryan	0.19245008972987526
+95	Alba, Miguel	No Comp	No Similarity
+96	Mineo, Ricky	No Comp	No Similarity
+97	Figueroa, Ryan	Mercedes, Yermín	0.31622776601683794
+98	Szabo, Zakery	Mercedes, Yermín	0.3333333333333333
+99	Patten, Cole	No Comp	No Similarity
+100	Noriega, Branden	Darvish, Yu	0.33806170189140666
+101	Fosbenner, Xavier	Carrasco, Carlos	0.3651483716701108
+102	Roberston, Trae	Mercedes, Yermín	0.31622776601683794
+103	Bravo, Zach	Peterson, Jace	0.40201512610368484
+104	Czerniawski, Zachary	Mejía, Francisco	0.3333333333333333
+105	Parisi, Jack	Mejía, Francisco	0.31622776601683794
+106	Tieding, Matthew	Dugger, Robert	0.30000000000000004
+107	McMahon, Ian	No Comp	No Similarity
+108	Bosch, Carter	No Comp	No Similarity
+109	Rodriguez, Joe Joe	No Comp	No Similarity
+110	Walling, Andrew	Mercedes, Yermín	0.31622776601683794
+111	Becker, Austin	No Comp	No Similarity
+112	Haab, Jonathan	Peterson, David	0.23904572186687872
+113	Stewart, Justin	Hale, David	0.4564354645876385
+114	Brown, Matt	Mercedes, Yermín	0.31622776601683794
+115	Sikorski, Easton	Mercedes, Yermín	0.31622776601683794
+116	Kush, Jacob	Mercedes, Yermín	0.3333333333333333
+117	Gonzalez, Joan	Herrera, Kelvin	0.25819888974716115
+118	Pratt, Davis	Fulmer, Carson	0.4
+119	Kane, Thomas	Urías, Julio	0.30151134457776363

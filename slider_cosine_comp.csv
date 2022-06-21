@@ -1,0 +1,131 @@
+	MLB DL Pitcher	MLB Comp	Cosine Value
+0	De Cedric, Grandpre	Cease, Dylan	0.3333333333333333
+1	Steward, Casey	Crowe, Wil	0.31622776601683794
+2	Cherry, Derrick	Guerra, Junior	0.31622776601683794
+3	Bortka, Josh	Garza Jr., Ralph	0.31622776601683794
+4	DePrimo, Hunter	No Comp	No Similarity
+5	Ramos, Jean Paul	Colina, Edwar	0.2222222222222222
+6	Roberston, Trae	Howard, Spencer	0.30000000000000004
+7	Laux, Brandon	Jurado, Ariel	0.2721655269759087
+8	Fernandez, Ronaldo	No Comp	No Similarity
+9	Peaden, Jacob	Anderson, Shaun	0.3333333333333333
+10	Saathoff, Allan	No Comp	No Similarity
+11	Harris, Antoine	Herrera, Kelvin	0.3333333333333333
+12	Cheeley, Austin	Freeland, Kyle	0.40201512610368484
+13	Ottinger, Zach	Milone, Tommy	0.31622776601683794
+14	Thompson, Ben	Gearrin, Cory	0.3333333333333333
+15	Rivera, Geo	Tanaka, Masahiro	0.502518907629606
+16	Braithwaite, Trey	Brault, Steven	0.2860387767736777
+17	Ammerlaan, Ashe	Avila, Pedro	0.31622776601683794
+18	Davitt, Duncan	No Comp	No Similarity
+19	Hansel, Luke	No Comp	No Similarity
+20	Chiriboga, Chris	Cortes, Nestor	0.35355339059327373
+21	Smith, Chase	Ottavino, Adam	0.3333333333333333
+22	Brown, Matt	Brubaker, JT	0.31622776601683794
+23	Shalley, Tucker	Feliz, Neftalí	0.21081851067789195
+24	Pickell, Cannon	Crouse, Hans	0.35355339059327373
+25	Fluno, Carson	Jurado, Ariel	0.2721655269759087
+26	Gross, Thomas	Nelson, Nick	0.30151134457776363
+27	Gilchrist, Malcolm	White, Mitch	0.30151134457776363
+28	Wilson, Jeffrey	Wittgren, Nick	0.2519763153394848
+29	Sanchez, JJ	Ottavino, Adam	0.3333333333333333
+30	Coles, Chad	Carroll, Cody	0.3333333333333333
+31	Kush, Jacob	Frankoff, Seth	0.2357022603955158
+32	Morrissette, Wagner	Jurado, Ariel	0.2721655269759087
+33	Stewart, Justin	Diehl, Phillip	0.3333333333333333
+34	Sikorski, Easton	Cease, Dylan	0.3333333333333333
+35	Fitzpatrick, Karter	Martin, Brett	0.4558423058385518
+36	Cheeley, Austin 	Civale, Aaron	0.3333333333333333
+37	Brandon, Connor	No Comp	No Similarity
+38	Diedrich, Sayer	Magill, Matt	0.30000000000000004
+39	Noriega, Branden	Frankoff, Seth	0.35355339059327373
+40	Mineo, Ricky	Luetge, Lucas	0.3333333333333333
+41	Blatter, Brock	No Comp	No Similarity
+42	Yamane, Tiaga	No Comp	No Similarity
+43	Tieding, Matthew	Zeuch, T.J.	0.3333333333333333
+44	Fruit, Zach	Frankoff, Seth	0.42640143271122083
+45	Whaley, Alec	Shaw, Bryan	0.3333333333333333
+46	Patten, Cole	Farmer, Buck	0.3333333333333333
+47	Rodriguez, Mauricio	Hirano, Yoshihisa	0.40201512610368484
+48	Szabo, Zakery	Freeland, Kyle	0.40201512610368484
+49	Thornton, Zach	Houser, Adrian	0.35355339059327373
+50	De Grandpre, Cedric	Giolito, Lucas	0.31622776601683794
+51	Parisi, Jack	Zamora, Daniel	0.30151134457776363
+52	Hunt, KC	Burnes, Corbin	0.31622776601683794
+53	Bravo, Zach	No Comp	No Similarity
+54	Alba, Miguel	Rowen, Ben	0.2222222222222222
+55	Crawford, Devin	Marte, Jose	0.30151134457776363
+56	Mollerus, Josh	Feyereisen, J.P.	0.31622776601683794
+57	Marozas, Austin	Frankoff, Seth	0.35355339059327373
+58	Kane, Thomas	Martin, Chris	0.2519763153394848
+59	Figueroa, Ryan	Frankoff, Seth	0.42640143271122083
+60	Czerniawski, Zachary	No Comp	No Similarity
+61	Ornido, Riley	Soroka, Mike	0.4545454545454546
+62	Kengott, Jared	Fry, Paul	0.3333333333333333
+63	Elissalt, Frank	White, Mitch	0.30151134457776363
+64	Stevens, Will	Zamora, Daniel	0.2860387767736777
+65	Modugno, John	Frankoff, Seth	0.33541019662496846
+66	Mann, Rhian	No Comp	No Similarity
+67	Suero, Jose	Rasmussen, Drew	0.3333333333333333
+68	Walling, Andrew	Frankoff, Seth	0.35355339059327373
+69	Wilson, Benjamin	Guduan, Reymin	0.30000000000000004
+70	Alba, Max	McGowin, Kyle	0.3333333333333333
+71	Wall, Chris	Eickhoff, Jerad	0.38138503569823695
+72	Milberg, Devin	McClain, Reggie	0.2860387767736777
+73	Ayers, Kyle	No Comp	No Similarity
+74	Perry, Tanner	Jax, Griffin	0.3333333333333333
+75	Richardson, Maddex	Leibrandt, Brandon	0.31622776601683794
+76	Cespedes, Angel	Frankoff, Seth	0.35355339059327373
+77	Jarvis Jr., Evans	Canning, Griffin	0.31622776601683794
+78	Busse, Terry	Santana, Dennis	0.30000000000000004
+79	Tullar, Cameron	Burdi, Zack	0.30000000000000004
+80	Palumbo, Nick	Ross, Joe	0.35355339059327373
+81	Wilhite, Thomas	Okert, Steven	0.2519763153394848
+82	Velazquez, Ryan	Cease, Dylan	0.3333333333333333
+83	Wendell, Wyatt	Feliz, Neftalí	0.31622776601683794
+84	Wiseman, Kevin	No Comp	No Similarity
+85	Fusco, Sal	Ross, Joe	0.35355339059327373
+86	Fenlong, Connor	Bedrosian, Cam	0.2981423969999719
+87	Morris, Gunner	Hand, Brad	0.31622776601683794
+88	Nett, Braden	Jurado, Ariel	0.25819888974716115
+89	Brewer, Michael	Gant, John	0.3333333333333333
+90	Patterson, Kyler	Guduan, Reymin	0.31622776601683794
+91	Cook, Jeremy	Leibrandt, Brandon	0.31622776601683794
+92	Galatas, Nikelle	Lovelady, Richard	0.31622776601683794
+93	Minton, Hayden	Lowther, Zac	0.30000000000000004
+94	Haab, Jonathan	Romo, Sergio	0.31622776601683794
+95	Allain, Luke	Miller, Tyson	0.31622776601683794
+96	Spoljaric, Turner	Hand, Brad	0.31622776601683794
+97	Rackers, Jason	Carrasco, Carlos	0.4545454545454546
+98	Godwin, Connor	Middleton, Keynan	0.2860387767736777
+99	Schomberg, Will	Nance, Tommy	0.21081851067789195
+100	Reeves, Cobe	Sims, Lucas	0.3333333333333333
+101	Wall, Chris 	Betances, Dellin	0.2981423969999719
+102	Drees, Derek	Ottavino, Adam	0.3333333333333333
+103	Camfield, Geoffrey	Kolarek, Adam	0.31622776601683794
+104	Hoffman, Tyler	Chafin, Andrew	0.35355339059327373
+105	Bucknam, Micah	Holder, Jonathan	0.3333333333333333
+106	Sapp, Eric	Gonsalves, Stephen	0.31622776601683794
+107	Garcia, Lex	Burdi, Zack	0.31622776601683794
+108	Tonas, Angelo	Nicasio, Juan	0.28867513459481287
+109	Gill, Elijah	Zeuch, T.J.	0.3333333333333333
+110	Carter, Alan	Newcomb, Sean	0.3333333333333333
+111	Pryor, Luke	Diekman, Jake	0.3333333333333333
+112	Gowens, Riley	Betances, Dellin	0.2981423969999719
+113	McMahon, Ian	Grace, Matt	0.2357022603955158
+114	Wright, Kerry	Frankoff, Seth	0.35355339059327373
+115	Olejnik, Peyton	Betances, Dellin	0.2981423969999719
+116	Kiritsis, Daniel	Ginkel, Kevin	0.42640143271122083
+117	Jeans, Tyler	Maeda, Kenta	0.31622776601683794
+118	Escano, Antonio	Bazardo, Eduard	0.31622776601683794
+119	Knoll, Brendan	Oviedo, Johan	0.31622776601683794
+120	Bosch, Carter	Strickland, Hunter	0.3333333333333333
+121	Olson, Mason	Nance, Tommy	0.2222222222222222
+122	Freeberger, Dominic	Nelson, Nick	0.2860387767736777
+123	Rackers, Jason 	No Comp	No Similarity
+124	Gonzalez, Joan	Castro, Anthony	0.3333333333333333
+125	Fosbenner, Xavier	No Comp	No Similarity
+126	Dieter, Brandon	No Comp	No Similarity
+127	Goodwin, Sean	Soroka, Mike	0.30151134457776363
+128	Pintaro, Jonathan	Buehler, Walker	0.31622776601683794
+129	Oswald, Wesley	No Comp	No Similarity

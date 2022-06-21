@@ -1,0 +1,113 @@
+	MLB DL Pitcher	MLB Comp	Cosine Value
+0	Wilhite, Thomas	No Comp	No Similarity
+1	Wojtarowicz, Andre	Hand, Brad	0.31622776601683794
+2	Wilson, Benjamin	Ureña, José	0.3508232077228117
+3	Oswald, Wesley	Szapucki, Thomas	0.33541019662496846
+4	Schomberg, Will	Gallen, Zac	0.31622776601683794
+5	Rodriguez, Mauricio	Bender, Anthony	0.4811252243246882
+6	Pryor, Luke	Gallegos, Giovanny	0.4
+7	Palumbo, Nick	No Comp	No Similarity
+8	Gill, Elijah	Chafin, Andrew	0.31622776601683794
+9	Fosbenner, Xavier	Germán, Domingo	0.30000000000000004
+10	Goodwin, Sean	Farrell, Luke	0.30000000000000004
+11	Fusco, Sal	Alaniz, R.J.	0.38138503569823695
+12	Roberts, Aaron	Valdez, Phillips	0.3872983346207417
+13	Cox, Brennan	Gerber, Joey	0.31622776601683794
+14	Elissalt, Frank	Szapucki, Thomas	0.33541019662496846
+15	Bravo, Zach	Bashlor, Tyler	0.3651483716701108
+16	De Grandpre, Cedric	Avila, Pedro	0.3849001794597505
+17	Pintaro, Jonathan	Jones, Nate	0.3651483716701108
+18	Sapp, Eric	Ureña, José	0.3508232077228117
+19	Cheeley, Austin	No Comp	No Similarity
+20	Johnson, Tyler	Familia, Jeurys	0.38138503569823695
+21	Knoll, Brendan	May, Trevor	0.30000000000000004
+22	Smith, Chase	Wendelken, J.B.	0.23904572186687872
+23	Allain, Luke	Ureña, José	0.3508232077228117
+24	Jarvis Jr., Evans	Hartlieb, Geoff	0.30000000000000004
+25	Velazquez, Ryan	Madero, Luís	0.4
+26	Czerniawski, Zachary	Wendelken, J.B.	0.2519763153394848
+27	Sanchez, JJ	Urías, Julio	0.3651483716701108
+28	Ammerlaan, Ashe	Díaz, Edwin	0.38138503569823695
+29	Spoljaric, Turner	May, Dustin	0.30000000000000004
+30	Peaden, Jacob	Montgomery, Mike	0.4351941398892446
+31	Schueler, Jay	Brewer, Colten	0.3651483716701108
+32	Sikorski, Easton	Familia, Jeurys	0.38138503569823695
+33	Tieding, Matthew	Ureña, José	0.3508232077228117
+34	Amerlaan, Ashe	No Comp	No Similarity
+35	Cherry, Derrick	No Comp	No Similarity
+36	Camfield, Geoffrey	Chatwood, Tyler	0.30000000000000004
+37	Pratt, Davis	Colina, Edwar	0.3651483716701108
+38	Stewart, Justin	Ureña, José	0.3508232077228117
+39	Morrissette, Wagner	Soto, Gregory	0.30000000000000004
+40	Shalley, Tucker	Megill, Trevor	0.30000000000000004
+41	Kush, Jacob	Ureña, José	0.3508232077228117
+42	Jeans, Tyler	Gsellman, Robert	0.4216370213557839
+43	Ottinger, Zach	Szapucki, Thomas	0.4472135954999579
+44	Fruit, Zach	No Comp	No Similarity
+45	Rodriguez, Joe Joe	Familia, Jeurys	0.38138503569823695
+46	Figueroa, Ryan	No Comp	No Similarity
+47	Parisi, Jack	Effross, Scott	0.3585685828003181
+48	Ramos, Jean Paul	García, Yimi	0.30000000000000004
+49	Drake, Kohl	Venditte, Pat	0.30000000000000004
+50	Alba, Miguel	Stammen, Craig	0.21081851067789195
+51	Ayers, Kyle	Gott, Trevor	0.33541019662496846
+52	Whaley, Alec	Ray, Robbie	0.30000000000000004
+53	Bucknam, Micah	Smith, Riley	0.4811252243246882
+54	Yamane, Tiaga	Farrell, Luke	0.30000000000000004
+55	Dieter, Brandon	No Comp	No Similarity
+56	Hunt, KC	Keller, Brad	0.4351941398892446
+57	Carter, Alan	Effross, Scott	0.3585685828003181
+58	Murphy, Shane	White, Mitch	0.30000000000000004
+59	Galatas, Nikelle	Nittoli, Vinny	0.30000000000000004
+60	Cook, Jeremy	Espinal, Raynel	0.30000000000000004
+61	Kengott, Jared	Familia, Jeurys	0.38138503569823695
+62	Stevens, Will	Bolaños, Ronald	0.3651483716701108
+63	Milberg, Devin	Darvish, Yu	0.30000000000000004
+64	Drees, Derek	Scott, Tanner	0.30000000000000004
+65	Tullar, Cameron	Dunn, Justin	0.33806170189140666
+66	De Cedric, Grandpre	Funkhouser, Kyle	0.33541019662496846
+67	Hansel, Luke	Naughton, Packy	0.31622776601683794
+68	Marozas, Austin	Funkhouser, Kyle	0.33541019662496846
+69	Noriega, Branden	No Comp	No Similarity
+70	Fernandez, Ronaldo	Selman, Sam	0.4
+71	Morris, Gunner	No Comp	No Similarity
+72	Wendell, Wyatt	Gott, Trevor	0.33541019662496846
+73	Escano, Antonio	Gott, Trevor	0.33541019662496846
+74	Gross, Thomas	Osuna, Roberto	0.30000000000000004
+75	Patten, Cole	Gott, Trevor	0.33541019662496846
+76	Thompson , Wyatt	Roe, Chaz	0.30000000000000004
+77	Coles, Chad	Gott, Trevor	0.33541019662496846
+78	Heine, Dylan	Wendelken, J.B.	0.3585685828003181
+79	Bosch, Carter	No Comp	No Similarity
+80	Cheeley, Austin 	Watson, Tony	0.38138503569823695
+81	Thompson, Wyatt	Dunn, Justin	0.42257712736425834
+82	Davitt, Duncan	Colina, Edwar	0.4166666666666668
+83	Brandon, Connor	Vólquez, Edinson	0.4216370213557839
+84	Roberston, Trae	Dunn, Justin	0.33806170189140666
+85	Gonzalez, Joan	May, Trevor	0.30000000000000004
+86	Walling, Andrew	White, Mitch	0.30000000000000004
+87	Harris, Antoine	No Comp	No Similarity
+88	Godwin, Connor	Mikolas, Miles	0.38138503569823695
+89	Tonas, Angelo	No Comp	No Similarity
+90	Steward, Casey	Sharp, Sterling	0.31622776601683794
+91	Richardson, Maddex	Bradley, Archie	0.31622776601683794
+92	Gowens, Riley	Musgrove, Joe	0.4
+93	Mineo, Ricky	No Comp	No Similarity
+94	Wall, Chris	Bradley, Archie	0.31622776601683794
+95	Minton, Hayden	Fernández, Junior	0.38138503569823695
+96	Gonzalez, Jesus	Gott, Trevor	0.33541019662496846
+97	Bortka, Josh	Teheran, Julio	0.33541019662496846
+98	Cespedes, Angel	No Comp	No Similarity
+99	Mollerus, Josh	No Comp	No Similarity
+100	Diedrich, Sayer	Eshelman, Thomas	0.31622776601683794
+101	DePrimo, Hunter	Freeland, Kyle	0.30000000000000004
+102	Patterson, Kyler	Gott, Trevor	0.4472135954999579
+103	Olson, Mason	Loáisiga, Jonathan	0.30000000000000004
+104	Nett, Braden	Eshelman, Thomas	0.31622776601683794
+105	Szabo, Zakery	Gray, Sonny	0.30000000000000004
+106	Modugno, John	Szapucki, Thomas	0.33541019662496846
+107	Figueroa, Anthony	Muller, Kyle	0.4
+108	Gilchrist, Malcolm	Peterson, David	0.31622776601683794
+109	Wright, Kerry	Cederlind, Blake	0.4351941398892446
+110	Reeves, Cobe	Familia, Jeurys	0.38138503569823695
+111	Kiritsis, Daniel	Szapucki, Thomas	0.42640143271122083
